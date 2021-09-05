@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "818734093241",
+    "project_id": "pumurologin",
+    "storage_bucket": "pumurologin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818734093241:android:1c824eeee9314847d15c68",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818734093241-4hsme4kdvadteumpp6hueffud9kt9png.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "815ad0bab033ef99143738bbcf2157eeab78c8fe"
+          }
+        },
+        {
+          "client_id": "818734093241-vl0465kpiletqhn2j9jsq5vuikv0uiu3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtyFgaAE0rVn0osTi8Nljv-QzXmMelVAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818734093241-vl0465kpiletqhn2j9jsq5vuikv0uiu3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
